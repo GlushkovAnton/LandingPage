@@ -1,6 +1,6 @@
 "# LandingPage" 
 
-I created this page with html/css and adaptive design.
+I created this page with html/css and responsive web design.
 
 This page validates input fields before submitting.
 
